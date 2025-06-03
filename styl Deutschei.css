@@ -1,0 +1,26 @@
+header.headline {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    line-height: 1.2;
+}
+
+.deu {
+    color: black;
+}
+
+.tsch {
+    color: red;
+}
+
+.ei {
+    color: yellow;
+}
+
+.b2 {
+    color: black;
+    margin-top: 20px;
+    font-size: 36px;
+}
+font-size: 15

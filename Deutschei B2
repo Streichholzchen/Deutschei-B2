@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Deutschei B2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="headline">
+            <span class="deu">Deu</span><span class="tsch">tsch</span><span class="ei">ei</span> <span class="b2">B2</span>
+        </h1>
+    </header>
+</body>
+</html>
